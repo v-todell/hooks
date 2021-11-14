@@ -1,1 +1,1 @@
-# Git hook post-checkout testing
+# Git hook post-checkout testing.
