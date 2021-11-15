@@ -1,5 +1,0 @@
-#!/bin/sh
-
-echo "post-checkout script activated!"
-exit 0
-
