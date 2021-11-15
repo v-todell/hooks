@@ -1,3 +1,4 @@
 #!/bin/sh
 
 echo "pre-commit hook activated!"
+exit 0
